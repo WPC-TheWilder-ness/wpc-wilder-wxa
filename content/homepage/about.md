@@ -1,7 +1,7 @@
 ---
 title: WILDER AND AURORA.
 draft: false
-avatar: images/WXAprofile.png
+avatar: images/test.png
 bio: About Aurora, and Wilder.
 
 weight: 1
